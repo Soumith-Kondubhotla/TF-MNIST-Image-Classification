@@ -34,11 +34,3 @@ This project aims to create and train a neural network model that takes an image
 ## Dataset
 
 We use the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) which consists of 70,000 grayscale images of handwritten digits (0-9). The dataset is split into 60,000 training images and 10,000 testing images.
-
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/TensorFlow-MNIST-Image-Classification.git
-   cd TensorFlow-MNIST-Image-Classification
