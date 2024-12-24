@@ -21,7 +21,7 @@ Welcome to the **TensorFlow MNIST Image Classification** repository! This projec
 
 This project aims to create and train a neural network model that takes an image of a handwritten digit as input and predicts the class of that digit (0-9). Using TensorFlow and Keras, we preprocess the MNIST dataset, build a neural network with multiple layers, and achieve high accuracy in digit classification.
 
-![Hand Written Digits Classification](images/1_1.png)
+![Hand Written Digits Classification](1_1.png)
 
 ## Features
 
